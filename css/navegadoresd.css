@@ -1,0 +1,83 @@
+body{
+	background-image:url(../imagenes/fondo.png);  
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+fieldset {
+  background: rgba(0, 0, 0, 0.95);
+  border-radius: 5px;
+  border: 5px solid white;
+	color:#fff;
+  height: auto;
+	width: 60%;
+}
+
+.e{
+  font-family: Montserrat Subrayada;
+  font-size: 40px;
+  margin-left: 22%;
+}
+
+h2{
+  background: white;
+  color:black;
+  width: cover;
+  text-align: center;
+}
+
+h5{
+    font-family: Arial Unicode MS;
+  font-size: 15px;
+  text-align: left;
+}
+
+.n1{
+  height: 220px;
+  width: 350px;
+}
+
+.co1, .co2, .co3, .co4{
+  float: right;
+  height: 220px;
+  width: 220px;
+  margin-right: 1%;
+}
+
+.uno{
+  font-family: Arial Unicode MS;
+  font-size: 15px;
+}
+
+
+p{
+  font-family: Arial Unicode MS;
+  font-size: 15px;
+  text-align: left;
+  margin-right: 33%;
+}
+
+.corona{
+  color:yellow;
+  font-size: 20px;
+}
+
+td {
+  background: rgba(255,255,255,0.9);
+  border:7px solid brown;
+  height: auto;
+  width: auto;
+  color: black;
+  font-size: 15px;
+} 
+
+tr{
+  border:0;
+}
+table {
+  border:solid white;
+  width:auto;
+  border-collapse: collapse;
+}
